@@ -1,0 +1,1 @@
+A readme.txt file committed as to executee the task administered HNGi7.0
